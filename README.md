@@ -9,3 +9,10 @@ I wanted the convenience of having everything mounted to a single board.
 
 The design also offers a shared fuse for all the LED outputs, which is a nice added benefit.  However, the fuse holder
 can be skipped and replaced by a short wire if so desired.
+
+## Tradrack mount
+
+The `./tradrack-mount` folder contains a simple model to mount the board to an Annex Engineering TradRack, or on
+the underside of any 2020 aluminium extrusion, really.  I recommend setting `Perimeters & Shell` > `Advanced` >
+`No perimeters on bridge areas` > `Fill the voids with bridges` in SuperSlicer to make the mounting screw holes turn out
+OK; I couldn't be bothered to model a more fancy hole.
