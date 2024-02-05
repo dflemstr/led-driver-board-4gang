@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"JST_XH_3P","J1,J2,J3,J4","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","C144394"
+"JST_XH_2P","J5,J6,J7,J8,J10","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","C158012"
+"LED_POWER_IN","J9","TerminalBlock_Philmore:TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal","C557651"
+"BSS138","Q1,Q2,Q3,Q4","Package_TO_SOT_SMD:SOT-23","C112239"
+"10k","R1,R2,R3,R4,R5,R6,R7,R8","Resistor_SMD:R_0805_2012Metric","C17414"
